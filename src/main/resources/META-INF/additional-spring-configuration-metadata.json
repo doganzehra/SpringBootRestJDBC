@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "level.low",
+    "type": "java.lang.String",
+    "description": "Bu düşük seviyedir"
+  },
+  {
+    "name": "level.medium",
+    "type": "java.lang.String",
+    "description": "Bu normal seviyedir"
+  },
+  {
+    "name": "level.high",
+    "type": "java.lang.String",
+    "description": "Bu yüksek seviyedir"
+  }
+]}
